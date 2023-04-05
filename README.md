@@ -1,2 +1,2 @@
 # infra_actions
-Описание в пути...все еще...
+Studying project for learning basic things about GitHub Actions.
